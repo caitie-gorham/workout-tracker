@@ -14,7 +14,7 @@ app.use(express.json());
 app.use(express.static("public"));
 
 app.use(require("./routes/htmlRoutes"));
-app.use(require("./routes/workoutRoutes"));
+app.use(require("./routes/apiRoutes"));
 
 mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/budget", {
   useNewUrlParser: true,
