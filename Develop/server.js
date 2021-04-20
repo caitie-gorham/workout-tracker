@@ -15,3 +15,12 @@ app.use(express.static("public"));
 
 app.use(require("./routes/htmlRoutes"));
 app.use(require("./routes/workoutRoutes"));
+
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/budget", {
+  useNewUrlParser: true,
+  useFindAndModify: false
+});
+
+app.listen(PORT, () => {
+    console.log(`App running on port ${PORT}!`);
+  });
