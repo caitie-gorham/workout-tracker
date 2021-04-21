@@ -18,7 +18,6 @@ router.put("/api/workouts/:id", ({ params: { id }, body }, res) => {
       res.json(dbWorkout);
     })
     .catch(err => {
-      console.log('err', err);
       res.json(err);
     });
 });
