@@ -14,11 +14,11 @@
 
 This repo contains a CLI application that allows users to track their workouts - cardio or resistance - and see 7-day statistics on them. 
 
-![Alt text](./assets/Homepage.png?raw=true "Homepage")
+![Alt text](./Assets/Homepage.png?raw=true "Homepage")
 
-![Alt text](./assets/Dropdown.png?raw=true "Homepage")
+![Alt text](./Assets/Dropdown.png?raw=true "Homepage")
 
-![Alt text](./assets/Stats.png?raw=true "Homepage")
+![Alt text](./Assets/Stats.png?raw=true "Homepage")
 
 
 # Access
