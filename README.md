@@ -24,7 +24,7 @@ This repo contains a CLI application that allows users to track their workouts -
 # Access
 
 You can find the GitHub repo here: https://github.com/caitie-gorham/workout-tracker
-You can find the Heroku link here: 
+You can find the Heroku link here: https://rocky-wildwood-73748.herokuapp.com/
 
 # Questions
 
