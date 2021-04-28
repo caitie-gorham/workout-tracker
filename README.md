@@ -24,10 +24,7 @@ This repo contains a CLI application that allows users to track their workouts -
 # Access
 
 You can find the GitHub repo here: https://github.com/caitie-gorham/workout-tracker
-# Improvements
-In order to meet the requirements for this assignment, this repo still needs: 
-* Fixed routes to generate new "last workout" on homepage
-* Live Heroku link with working application
+You can find the Heroku link here: 
 
 # Questions
 
